@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agust\\Desktop\\Programming\\CoderHouse\\Proyecto Final\\Back End\\Proyecto Final.csproj",
+      "projectUniqueName": "C:\\Users\\agust\\Desktop\\GitHub\\Proyecto-Final-Tieghi\\Back End\\Proyecto Final.csproj",
       "projectName": "Proyecto Final",
-      "projectPath": "C:\\Users\\agust\\Desktop\\Programming\\CoderHouse\\Proyecto Final\\Back End\\Proyecto Final.csproj",
+      "projectPath": "C:\\Users\\agust\\Desktop\\GitHub\\Proyecto-Final-Tieghi\\Back End\\Proyecto Final.csproj",
       "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\agust\\Desktop\\Programming\\CoderHouse\\Proyecto Final\\Back End\\obj\\",
+      "outputPath": "C:\\Users\\agust\\Desktop\\GitHub\\Proyecto-Final-Tieghi\\Back End\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\agust\\AppData\\Roaming\\NuGet\\NuGet.Config",
